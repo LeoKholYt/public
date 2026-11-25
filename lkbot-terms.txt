@@ -1,0 +1,53 @@
+Terms of Service for LK Bot
+Last updated: November 25, 2026
+
+Please read these Terms of Service ("Terms") carefully before using LK Bot ("the Bot", "the Service").
+By using the Service you agree to these Terms. If you disagree with any part of them, you may not use the Service.
+These Terms apply to all users of the Service, including server administrators who add the Bot to their servers.
+
+Privacy Policy: https://leokholyt.github.io/public/lkbot-policy.txt
+
+#### 1. Eligibility ####
+You must follow Discord's Terms of Service (https://discord.com/terms) and Community Guidelines (https://discord.com/guidelines) while using the Bot, including meeting Discord's minimum age requirement for your country.
+
+#### 2. Virtual Economy ####
+The Bot includes a virtual economy with in-game cash, items, chests, potions and other virtual goods ("Virtual Items").
+- Virtual Items have no real-world monetary value and cannot be exchanged for real money.
+- Virtual Items are licensed to you for use within the Bot only. You do not own them.
+- Selling, buying or trading Virtual Items or accounts for real money, Discord Nitro or any other real-world value is prohibited.
+- We may adjust, remove or reset any balance or Virtual Item at any time, including to correct bugs, reverse exploits, or rebalance the economy. We are not required to compensate you for any such change.
+
+#### 3. Acceptable Use ####
+You agree not to:
+- Use alternate accounts to farm, transfer or duplicate Virtual Items or cash.
+- Use macros, scripts, self-bots or any other automation to run commands.
+- Exploit bugs or glitches for your own or another user's benefit. Please report bugs to us instead.
+- Spam commands, attempt to overload the Bot, or interfere with its operation.
+- Use the Bot to harass other users or to break Discord's Terms of Service or Community Guidelines.
+Breaking these rules may result in a reset of your data and/or a ban from the Service.
+
+#### 4. Server Administrators ####
+Moderation features such as automod, slowmode and role persistence are enabled and configured by server administrators. Server administrators are responsible for how these features are used in their servers. Automated moderation may occasionally act on messages incorrectly, and we are not responsible for moderation actions taken in any server.
+
+#### 5. Availability and Changes to the Service ####
+The Bot is a free service provided on an "as is" and "as available" basis. Features, commands, Virtual Items and their values may be added, changed or removed at any time without notice. The Bot may be unavailable, contain errors, or lose data, and we do not guarantee that it will be available at any particular time.
+
+#### 6. Disclaimer and Limitation of Liability ####
+To the fullest extent permitted by law, we make no warranties of any kind, express or implied, about the Service.
+To the fullest extent permitted by law, we are not liable for any indirect, incidental or consequential damages, or for any loss of data, Virtual Items or in-game progress, arising from your use of or inability to use the Service.
+Nothing in these Terms limits any rights you have under mandatory consumer protection laws that cannot be excluded.
+
+#### 7. Termination ####
+We may suspend or terminate your access to the Service at any time, without prior notice, at our sole discretion, including for any breach of these Terms. We may also delete your data when your access is terminated.
+Provisions of these Terms that by their nature should survive termination will survive, including Sections 2, 6 and 8.
+
+#### 8. Governing Law ####
+These Terms are governed by and construed in accordance with the laws of the Republic of Lithuania, without regard to its conflict of law provisions. This does not affect any mandatory consumer protection rights you have under the laws of your country of residence.
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of that right. If any provision of these Terms is held to be invalid or unenforceable, the remaining provisions will remain in effect. These Terms, together with the Privacy Policy, are the entire agreement between you and us regarding the Service.
+
+#### 9. Changes to These Terms ####
+We may change these Terms at any time. When we make a material change, we will update the "Last updated" date above and announce the change in the LK Bot support server.
+By continuing to use the Service after changes take effect, you agree to the revised Terms. If you do not agree, you must stop using the Service.
+
+#### 10. Contact Us ####
+If you have any questions about these Terms, please contact us by email: lkbot@leokhol.com
