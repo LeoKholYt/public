@@ -18,7 +18,7 @@ Account means a unique account created for You to access our Service or parts of
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 Application means the software program provided by the Company downloaded by You on any electronic device, named LK Bot
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to LK Bot.
-Country refers to: Ukraine
+Country refers to: Lithuania
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 Personal Data is any information that relates to an identified or identifiable individual.
 Service refers to the Application.
@@ -92,6 +92,13 @@ To request access to or deletion of Your data, contact Us by email (see Contact 
 
 Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
 
+- Your Rights (GDPR)
+LK Bot is operated from Lithuania, and Your Personal Data is processed in accordance with the EU General Data Protection Regulation (GDPR).
+Legal basis: We process Your Discord ID, economy data and message content on the basis of our legitimate interest in providing the Bot's features (economy, leaderboards and moderation) to You and to the servers You use it in.
+You have the right to: access the Personal Data we hold about You; correct inaccurate data; request deletion of Your data; receive a copy of Your data in a portable format; and object to or request restriction of processing.
+To exercise any of these rights, contact Us (see Contact Us below) with Your Discord user ID. We will respond within one month.
+You also have the right to lodge a complaint with a data protection supervisory authority. In Lithuania this is the State Data Protection Inspectorate (Valstybine duomenu apsaugos inspekcija, https://vdai.lrv.lt).
+
 - Law enforcement
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
@@ -108,7 +115,7 @@ Protect against legal liability
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
 - Children's Privacy
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+Our Service does not address anyone under the minimum age required by Discord in their country (at least 13). We do not knowingly collect personally identifiable information from anyone under that age. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
